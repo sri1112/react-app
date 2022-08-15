@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sri1112/react-app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/sri1112/react-app.git/static/js/main.5fad70de.js",
+    "static/js/787.544c848a.chunk.js": "/sri1112/react-app.git/static/js/787.544c848a.chunk.js",
+    "index.html": "/sri1112/react-app.git/index.html",
+    "main.e6c13ad2.css.map": "/sri1112/react-app.git/static/css/main.e6c13ad2.css.map",
+    "main.5fad70de.js.map": "/sri1112/react-app.git/static/js/main.5fad70de.js.map",
+    "787.544c848a.chunk.js.map": "/sri1112/react-app.git/static/js/787.544c848a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5fad70de.js"
+  ]
+}
